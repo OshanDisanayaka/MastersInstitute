@@ -1,0 +1,20 @@
+# NetBeans build output
+build/
+dist/
+nbproject/private/
+
+# Private settings (passwords) - never upload
+config.properties
+
+# Old library locations (the project now uses lib/)
+jcalendar-1.4/
+/mysql-connector-j-*.jar
+/*-javadoc.jar
+
+# Backups and OS files
+backup_before_responsive.zip
+*.class
+*.log
+Thumbs.db
+desktop.ini
+.DS_Store
